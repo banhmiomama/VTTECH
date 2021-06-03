@@ -1,14 +1,11 @@
 @font-face {
     font-family: 'VTTech';
-    src:  url('/fonts/VTTech.eot?mljbf4');
-    src:  url('/fonts/VTTech.eot?mljbf4#iefix') format('embedded-opentype'),
-      url('/fonts/VTTech.ttf?mljbf4') format('truetype'),
-      url('/fonts/VTTech.woff?mljbf4') format('woff'),
-      url('/fonts/VTTech.svg?mljbf4#VTTech') format('svg');
+    src: url('../../fonts/VTTech.eot?mljbf4');
+    src: url('../../fonts/VTTech.eot?mljbf4#iefix') format('embedded-opentype'), url('../../fonts/VTTech.ttf?mljbf4') format('truetype'), url('../../fonts/VTTech.woff?mljbf4') format('woff'), url('../../fonts/VTTech.svg?mljbf4#VTTech') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: block;
-  }
+}
   
   .icon {
     /* use !important to prevent issues with browser extensions that change fonts */

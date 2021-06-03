@@ -1,8 +1,8 @@
 $(document).ready(function(){
     Event_Click_Nav_Icon();
     Event_Click_Out_Main();
-    Event_Click_Link_Redirect();
-    Event_Click_Link_Redirect_First_Link();
+    //Event_Click_Link_Redirect();
+    //Event_Click_Link_Redirect_First_Link();
 })
 
 
