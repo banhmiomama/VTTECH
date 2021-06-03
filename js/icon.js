@@ -238,10 +238,6 @@ var data_Icon_List = [
     {
         "ClassName": "icon icon-teamplate1",
         "Name": "iconteamplate1"
-    },
-    {
-        "ClassName": "icon",
-        "Name": ""
     }
 ]
 
