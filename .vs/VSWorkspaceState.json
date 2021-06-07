@@ -1,14 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\dist",
-    "\\dist\\css",
-    "\\fonts",
     "\\img",
     "\\img\\LOGO",
     "\\js",
     "\\view"
   ],
-  "SelectedNode": "\\fonts\\VTTech.ttf",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }

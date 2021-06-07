@@ -253,7 +253,7 @@ function Event_Click_Remove_Text_Search(){
 }
 
 
-function Render_Data_List_Icon(data,id){
+function Render_Data_List_Icon(data,id){debugger
     let htmls = "";
     if(data != undefined && data.length != 0){
         htmls = data.map((item) => {
@@ -266,19 +266,20 @@ function Render_Data_List_Icon(data,id){
                     </div>
                 `
                 return string;
-        })
+        }).join("")
     }
-    $("#" + id).html(htmls.join(""));
+    $("#" + id).html(htmls);
     Event_Click_Copy_Clipboard_Icon();
 }
 
 function OnkeyupSearchIcon(){
     try{
-        let search = ($("#InputSearchIcon").val()).trim();
+        let search = removeAccents($("#InputSearchIcon").val()).toLowerCase().trim();
         let data = [];
         if(search != ""){
             data = data_Icon_List.filter((work) => {
-                return work["Name"].includes(search) || work["ClassName"].includes(search)
+                return removeAccents((work["Name"]).toLowerCase()).includes(search) 
+                || removeAccents(work["ClassName"]).includes(search)
             })
         }
         else{
@@ -295,11 +296,7 @@ function Event_Click_Copy_Clipboard_Icon(){
             let icon = $(this).children(".icon_content");
             let icon_html = (icon.html()).trim();
             if(Event_Copy_Text_To_Clipboard(icon_html) == true)
-                $.notify("Copy To Clipboar", "success",
-                    { 
-                        position:"bottom"      
-                    }
-                );
+                toastr.success('Copy To Clipboar')
     })
 }
 
