@@ -38,6 +38,7 @@ function Event_Click_Link_Redirect() {
         let link = $(this).attr("data-href");
         if (link != "") {
             $("#box-loading").show();
+            $("#main_section").empty();
             setTimeout(function () {
                 $("#main_section").load(link, function () {
                     $("#box-loading").hide();
