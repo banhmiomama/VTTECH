@@ -52,6 +52,7 @@ function Event_Click_Link_Redirect_First_Link() {
 ////#endregion
 
 
+////#region  // Setting toastr
 toastr.options = {
     "closeButton": false,
     "debug": false,
@@ -69,3 +70,5 @@ toastr.options = {
     "showMethod": "fadeIn",
     "hideMethod": "fadeOut"
   }
+
+  ////#endregion
