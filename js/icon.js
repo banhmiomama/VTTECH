@@ -253,7 +253,7 @@ function Event_Click_Remove_Text_Search(){
 }
 
 
-function Render_Data_List_Icon(data,id){debugger
+function Render_Data_List_Icon(data,id){
     let htmls = "";
     if(data != undefined && data.length != 0){
         htmls = data.map((item) => {

@@ -2,7 +2,7 @@ $(document).ready(function () {
     Event_Click_Nav_Icon();
     Event_Click_Out_Main();
     Event_Click_Link_Redirect();
-    //Event_Click_Link_Redirect_First_Link();
+    Event_Click_Link_Redirect_First_Link();
 })
 
 
@@ -42,12 +42,12 @@ function Event_Click_Link_Redirect() {
                 $("#main_section").load(link, function () {
                     $("#box-loading").hide();
                 });
-            }, 2000)
+            }, 1000)
         }
     });
 }
 function Event_Click_Link_Redirect_First_Link() {
-    $("#menu_list .menu_item:nth-child(2)").click();
+    $("#menu_list .menu_item:nth-child(1)").click();
 }
 ////#endregion
 
