@@ -122,5 +122,7 @@
     .menu .menu_list.wrap .menu_item .menu_title{
         display: inline;
     }
-    
+    .menu{
+        padding-top: 20px;
+    }
 }

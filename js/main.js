@@ -39,6 +39,7 @@ function Event_Click_Link_Redirect() {
         if (link != "") {
             $("#box-loading").show();
             $("#main_section").empty();
+            if($(window).innerWidth() < 800) $("#menu").removeClass("wrap")
             setTimeout(function () {
                 $("#main_section").load(link, function () {
                     $("#box-loading").hide();
@@ -59,7 +60,7 @@ toastr.options = {
     "debug": false,
     "newestOnTop": false,
     "progressBar": false,
-    "positionClass": "toast-bottom-right",
+    "positionClass": "toast-top-right",
     "preventDuplicates": false,
     "onclick": null,
     "showDuration": "300",
