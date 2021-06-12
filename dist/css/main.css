@@ -83,7 +83,7 @@
     -webkit-transition: 0.3s ease;
     padding: 5px;
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
 }

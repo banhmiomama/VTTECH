@@ -10,7 +10,7 @@
   font-display: block;
 }
 
-.icon {
+.iconvttech {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'VTTech' !important;
   speak: never;
@@ -25,411 +25,411 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-i_app1:before {
+.iconvttech-i_app1:before {
   content: "\e900";
 }
-.icon-i_cancel1:before {
+.iconvttech-i_cancel1:before {
   content: "\e901";
 }
-.icon-i_check1:before {
+.iconvttech-i_check1:before {
   content: "\e902";
 }
-.icon-i_creat1:before {
+.iconvttech-i_creat1:before {
   content: "\e903";
 }
-.icon-i_cus1:before {
+.iconvttech-i_cus1:before {
   content: "\e904";
 }
-.icon-i_visitor1:before {
+.iconvttech-i_visitor1:before {
   content: "\e905";
 }
-.icon-Prepaid-cards1:before {
+.iconvttech-Prepaid-cards1:before {
   content: "\e906";
 }
-.icon-prescription1:before {
+.iconvttech-prescription1:before {
   content: "\e907";
 }
-.icon-service-payment1:before {
+.iconvttech-service-payment1:before {
   content: "\e908";
 }
-.icon-booking1:before {
+.iconvttech-booking1:before {
   content: "\e909";
 }
-.icon-cctreat1:before {
+.iconvttech-cctreat1:before {
   content: "\e90a";
 }
-.icon-creat-app1:before {
+.iconvttech-creat-app1:before {
   content: "\e90b";
 }
-.icon-dieutri1:before {
+.iconvttech-dieutri1:before {
   content: "\e90c";
 }
-.icon-nonecctreat1:before {
+.iconvttech-nonecctreat1:before {
   content: "\e90d";
 }
-.icon-print1:before {
+.iconvttech-print1:before {
   content: "\e90e";
 }
-.icon-signature1:before {
+.iconvttech-signature1:before {
   content: "\e90f";
 }
-.icon-treatment1:before {
+.iconvttech-treatment1:before {
   content: "\e910";
 }
-.icon-treatment-work1:before {
+.iconvttech-treatment-work1:before {
   content: "\e911";
 }
-.icon-uniE9121:before {
+.iconvttech-uniE9121:before {
   content: "\e912";
 }
-.icon-deposit1:before {
+.iconvttech-deposit1:before {
   content: "\e913";
 }
-.icon-history1:before {
+.iconvttech-history1:before {
   content: "\e914";
 }
-.icon-installment1:before {
+.iconvttech-installment1:before {
   content: "\e915";
 }
-.icon-introduce1:before {
+.iconvttech-introduce1:before {
   content: "\e916";
 }
-.icon-sms1:before {
+.iconvttech-sms1:before {
   content: "\e917";
 }
-.icon-cahnge-color1:before {
+.iconvttech-cahnge-color1:before {
   content: "\e918";
 }
-.icon-call-action1:before {
+.iconvttech-call-action1:before {
   content: "\e919";
 }
-.icon-clear-sort1:before {
+.iconvttech-clear-sort1:before {
   content: "\e91a";
 }
-.icon-cust-code1:before {
+.iconvttech-cust-code1:before {
   content: "\e91b";
 }
-.icon-down1:before {
+.iconvttech-down1:before {
   content: "\e91c";
 }
-.icon-edit-action1:before {
+.iconvttech-edit-action1:before {
   content: "\e91d";
 }
-.icon-icon-doctor1:before {
+.iconvttech-icon-doctor1:before {
   content: "\e91e";
 }
-.icon-print-action1:before {
+.iconvttech-print-action1:before {
   content: "\e91f";
 }
-.icon-room-action1:before {
+.iconvttech-room-action1:before {
   content: "\e920";
 }
-.icon-setup1:before {
+.iconvttech-setup1:before {
   content: "\e921";
 }
-.icon-sms_action1:before {
+.iconvttech-sms_action1:before {
   content: "\e922";
 }
-.icon-tag-chichu-lich1:before {
+.iconvttech-tag-chichu-lich1:before {
   content: "\e923";
 }
-.icon-up1:before {
+.iconvttech-up1:before {
   content: "\e924";
 }
-.icon-filter-calendar1:before {
+.iconvttech-filter-calendar1:before {
   content: "\e925";
 }
-.icon-ACCOUNT1:before {
+.iconvttech-ACCOUNT1:before {
   content: "\e926";
 }
-.icon-appoment1:before {
+.iconvttech-appoment1:before {
   content: "\e927";
 }
-.icon-call011:before {
+.iconvttech-call011:before {
   content: "\e928";
 }
-.icon-cancel-apps1:before {
+.iconvttech-cancel-apps1:before {
   content: "\e929";
 }
-.icon-chamsoc1:before {
+.iconvttech-chamsoc1:before {
   content: "\e92a";
 }
-.icon-cus1:before {
+.iconvttech-cus1:before {
   content: "\e92b";
 }
-.icon-facebook1:before {
+.iconvttech-facebook1:before {
   content: "\e92c";
 }
-.icon-labo1:before {
+.iconvttech-labo1:before {
   content: "\e92d";
 }
-.icon-marketing1:before {
+.iconvttech-marketing1:before {
   content: "\e92e";
 }
-.icon-mobile1:before {
+.iconvttech-mobile1:before {
   content: "\e92f";
 }
-.icon-on-mic011:before {
+.iconvttech-on-mic011:before {
   content: "\e930";
 }
-.icon-repport1:before {
+.iconvttech-repport1:before {
   content: "\e931";
 }
-.icon-serv1:before {
+.iconvttech-serv1:before {
   content: "\e932";
 }
-.icon-setting1:before {
+.iconvttech-setting1:before {
   content: "\e933";
 }
-.icon-sms011:before {
+.iconvttech-sms011:before {
   content: "\e934";
 }
-.icon-task1:before {
+.iconvttech-task1:before {
   content: "\e935";
 }
-.icon-task-011:before {
+.iconvttech-task-011:before {
   content: "\e936";
 }
-.icon-un-mic011:before {
+.iconvttech-un-mic011:before {
   content: "\e937";
 }
-.icon-user-setting1:before {
+.iconvttech-user-setting1:before {
   content: "\e938";
 }
-.icon-warehouse1:before {
+.iconvttech-warehouse1:before {
   content: "\e939";
 }
-.icon-attach1:before {
+.iconvttech-attach1:before {
   content: "\e93a";
 }
-.icon-birth-day1:before {
+.iconvttech-birth-day1:before {
   content: "\e93b";
 }
-.icon-call1:before {
+.iconvttech-call1:before {
   content: "\e93c";
 }
-.icon-cancel1:before {
+.iconvttech-cancel1:before {
   content: "\e93d";
 }
-.icon-clear1:before {
+.iconvttech-clear1:before {
   content: "\e93e";
 }
-.icon-client_send1:before {
+.iconvttech-client_send1:before {
   content: "\e93f";
 }
-.icon-comment1:before {
+.iconvttech-comment1:before {
   content: "\e940";
 }
-.icon-dot1:before {
+.iconvttech-dot1:before {
   content: "\e941";
 }
-.icon-face_icon1:before {
+.iconvttech-face_icon1:before {
   content: "\e942";
 }
-.icon-face_w1:before {
+.iconvttech-face_w1:before {
   content: "\e943";
 }
-.icon-facelink1:before {
+.iconvttech-facelink1:before {
   content: "\e944";
 }
-.icon-fillter1:before {
+.iconvttech-fillter1:before {
   content: "\e945";
 }
-.icon-gotomess1:before {
+.iconvttech-gotomess1:before {
   content: "\e946";
 }
-.icon-hide1:before {
+.iconvttech-hide1:before {
   content: "\e947";
 }
-.icon-like1:before {
+.iconvttech-like1:before {
   content: "\e948";
 }
-.icon-messenger1:before {
+.iconvttech-messenger1:before {
   content: "\e949";
 }
-.icon-name1:before {
+.iconvttech-name1:before {
   content: "\e94a";
 }
-.icon-nodelete_b1:before {
+.iconvttech-nodelete_b1:before {
   content: "\e94b";
 }
-.icon-nohide1:before {
+.iconvttech-nohide1:before {
   content: "\e94c";
 }
-.icon-no-reply1:before {
+.iconvttech-no-reply1:before {
   content: "\e94d";
 }
-.icon-no-see1:before {
+.iconvttech-no-see1:before {
   content: "\e94e";
 }
-.icon-ok1:before {
+.iconvttech-ok1:before {
   content: "\e94f";
 }
-.icon-phone-21:before {
+.iconvttech-phone-21:before {
   content: "\e950";
 }
-.icon-profile1:before {
+.iconvttech-profile1:before {
   content: "\e951";
 }
-.icon-sex1:before {
+.iconvttech-sex1:before {
   content: "\e952";
 }
-.icon-staff1:before {
+.iconvttech-staff1:before {
   content: "\e953";
 }
-.icon-start1:before {
+.iconvttech-start1:before {
   content: "\e954";
 }
-.icon-tag1:before {
+.iconvttech-tag1:before {
   content: "\e955";
 }
-.icon-teamplate1:before {
+.iconvttech-teamplate1:before {
   content: "\e956";
 }
-.icon-cancel-app1:before {
+.iconvttech-cancel-app1:before {
   content: "\e957";
 }
-.icon-creat-csu-bo1:before {
+.iconvttech-creat-csu-bo1:before {
   content: "\e958";
 }
-.icon-creat-profile1:before {
+.iconvttech-creat-profile1:before {
   content: "\e959";
 }
-.icon-dash1:before {
+.iconvttech-dash1:before {
   content: "\e95a";
 }
-.icon-desk1:before {
+.iconvttech-desk1:before {
   content: "\e95b";
 }
-.icon-export-ex1:before {
+.iconvttech-export-ex1:before {
   content: "\e95c";
 }
-.icon-icon-bacsi1:before {
+.iconvttech-icon-bacsi1:before {
   content: "\e95d";
 }
-.icon-mute-volume1:before {
+.iconvttech-mute-volume1:before {
   content: "\e95e";
 }
-.icon-notifaction1:before {
+.iconvttech-notifaction1:before {
   content: "\e95f";
 }
-.icon-phong1:before {
+.iconvttech-phong1:before {
   content: "\e960";
 }
-.icon-print11:before {
+.iconvttech-print11:before {
   content: "\e961";
 }
-.icon-trongngay1:before {
+.iconvttech-trongngay1:before {
   content: "\e962";
 }
-.icon-vietnam1:before {
+.iconvttech-vietnam1:before {
   content: "\e963";
 }
-.icon-volum-noti1:before {
+.iconvttech-volum-noti1:before {
   content: "\e964";
 }
-.icon-x-ray1:before {
+.iconvttech-x-ray1:before {
   content: "\e965";
 }
-.icon-call11:before {
+.iconvttech-call11:before {
   content: "\e966";
 }
-.icon-mute-call-center1:before {
+.iconvttech-mute-call-center1:before {
   content: "\e967";
 }
-.icon-on-mic1:before {
+.iconvttech-on-mic1:before {
   content: "\e968";
 }
-.icon-booking11:before {
+.iconvttech-booking11:before {
   content: "\e969";
 }
-.icon-call21:before {
+.iconvttech-call21:before {
   content: "\e96a";
 }
-.icon-call0111:before {
+.iconvttech-call0111:before {
   content: "\e96b";
 }
-.icon-call-ticket1:before {
+.iconvttech-call-ticket1:before {
   content: "\e96c";
 }
-.icon-cancel11:before {
+.iconvttech-cancel11:before {
   content: "\e96d";
 }
-.icon-cancel-011:before {
+.iconvttech-cancel-011:before {
   content: "\e96e";
 }
-.icon-cancel-app11:before {
+.iconvttech-cancel-app11:before {
   content: "\e96f";
 }
-.icon-check1:before {
+.iconvttech-check1:before {
   content: "\e970";
 }
-.icon-creat-app11:before {
+.iconvttech-creat-app11:before {
   content: "\e971";
 }
-.icon-delete1:before {
+.iconvttech-delete1:before {
   content: "\e972";
 }
-.icon-delete011:before {
+.iconvttech-delete011:before {
   content: "\e973";
 }
-.icon-disable1:before {
+.iconvttech-disable1:before {
   content: "\e974";
 }
-.icon-edit1:before {
+.iconvttech-edit1:before {
   content: "\e975";
 }
-.icon-import-file1:before {
+.iconvttech-import-file1:before {
   content: "\e976";
 }
-.icon-labo11:before {
+.iconvttech-labo11:before {
   content: "\e977";
 }
-.icon-list-ticket-file1:before {
+.iconvttech-list-ticket-file1:before {
   content: "\e978";
 }
-.icon-lock1:before {
+.iconvttech-lock1:before {
   content: "\e979";
 }
-.icon-lock-011:before {
+.iconvttech-lock-011:before {
   content: "\e97a";
 }
-.icon-LOCK-USER-bo1:before {
+.iconvttech-LOCK-USER-bo1:before {
   content: "\e97b";
 }
-.icon-print21:before {
+.iconvttech-print21:before {
   content: "\e97c";
 }
-.icon-refesh1:before {
+.iconvttech-refesh1:before {
   content: "\e97d";
 }
-.icon-restore1:before {
+.iconvttech-restore1:before {
   content: "\e97e";
 }
-.icon-send-sms1:before {
+.iconvttech-send-sms1:before {
   content: "\e97f";
 }
-.icon-ticket1:before {
+.iconvttech-ticket1:before {
   content: "\e980";
 }
-.icon-todo1:before {
+.iconvttech-todo1:before {
   content: "\e981";
 }
-.icon-tranfer-user1:before {
+.iconvttech-tranfer-user1:before {
   content: "\e982";
 }
-.icon-unlock1:before {
+.iconvttech-unlock1:before {
   content: "\e983";
 }
-.icon-unlock-011:before {
+.iconvttech-unlock-011:before {
   content: "\e984";
 }
-.icon-unlock-usser-bo1:before {
+.iconvttech-unlock-usser-bo1:before {
   content: "\e985";
 }
-.icon-xem1:before {
+.iconvttech-xem1:before {
   content: "\e986";
 }
-.icon-logo1:before {
+.iconvttech-logo1:before {
   content: "\e987";
 }
