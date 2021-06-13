@@ -21,3 +21,28 @@ function removeAccents(str) {
     }
     return str;
   }
+
+  function Event_Copy_Text_To_Clipboard(text){
+    var m = document;
+    text = m.createTextNode(text);
+    var w = window;
+    var b = m.body;
+    b.appendChild(text);
+    if (b.createTextRange) {
+        var d = b.createTextRange();
+        d.moveToElementText(text);
+        d.select();
+        m.execCommand('copy');
+    } 
+    else {
+        var d = m.createRange();
+        var g = w.getSelection;
+        d.selectNodeContents(text);
+        g().removeAllRanges();
+        g().addRange(d);
+        m.execCommand('copy');
+        g().removeAllRanges();
+    }
+    text.remove();
+    return true;
+}
