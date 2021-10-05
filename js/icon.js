@@ -1,547 +1,735 @@
 var data_Icon_List = [
     {
-        "ClassName": "iconvttech iconvttech-i_app1",
-        "Name": "app"
+        "ClassName": "vtt-icon vttech-icon-export-warehouse",
+        "Name": "export warehouse"
     },
     {
-        "ClassName": "iconvttech iconvttech-i_cancel1",
-        "Name": "cancel"
+        "ClassName": "vtt-icon vttech-icon-input-warehouse",
+        "Name": "input warehouse"
     },
     {
-        "ClassName": "iconvttech iconvttech-i_check1",
-        "Name": "check"
+        "ClassName": "vtt-icon vttech-icon-warehouse-transfer",
+        "Name": "warehouse transfer"
     },
     {
-        "ClassName": "iconvttech iconvttech-i_creat1",
-        "Name": "creat"
+        "ClassName": "vtt-icon vttech-icon-flag-vi",
+        "Name": "flag vi"
     },
     {
-        "ClassName": "iconvttech iconvttech-i_cus1",
-        "Name": "cus"
+        "ClassName": "vtt-icon vttech-icon-flag-vn",
+        "Name": "flag vn"
     },
     {
-        "ClassName": "iconvttech iconvttech-i_visitor1",
-        "Name": "visitor"
+        "ClassName": "vtt-icon vttech-icon-progressing",
+        "Name": "progressing"
     },
     {
-        "ClassName": "iconvttech iconvttech-Prepaid-cards1",
-        "Name": "Prepaid cards"
+        "ClassName": "vtt-icon vttech-icon-undisable",
+        "Name": "undisable"
     },
     {
-        "ClassName": "iconvttech iconvttech-prescription1",
-        "Name": "prescription"
+        "ClassName": "vtt-icon vttech-icon-uncheck",
+        "Name": "uncheck"
     },
     {
-        "ClassName": "iconvttech iconvttech-service-payment1",
-        "Name": "service payment"
+        "ClassName": "vtt-icon vttech-icon-commitment",
+        "Name": "commitment"
     },
     {
-        "ClassName": "iconvttech iconvttech-booking1",
+        "ClassName": "vtt-icon vttech-icon-add",
+        "Name": "add"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-uncomplete",
+        "Name": "uncomplete"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-devide",
+        "Name": "devide"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-detail",
+        "Name": "detail"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-medicine_grid",
+        "Name": "medicine_grid"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-merge",
+        "Name": "merge"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-recover",
+        "Name": "recover"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-support-technical",
+        "Name": "support technical"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-folder_40",
+        "Name": "folder_40"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-pen",
+        "Name": "pen"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-media",
+        "Name": "media"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-student",
+        "Name": "student"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-flag-en",
+        "Name": "flag en"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-endcall",
+        "Name": "endcall"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-unmutecall",
+        "Name": "unmutecall"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-reset",
+        "Name": "reset"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-google-map",
+        "Name": "google map"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-all",
+        "Name": "all"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-change",
+        "Name": "change"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-account",
+        "Name": "account"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-done-takecare",
+        "Name": "done takecare"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-booking",
         "Name": "booking"
     },
     {
-        "ClassName": "iconvttech iconvttech-cctreat1",
-        "Name": "cctreat"
+        "ClassName": "vtt-icon vttech-icon-star",
+        "Name": "star"
     },
     {
-        "ClassName": "iconvttech iconvttech-creat-app1",
+        "ClassName": "vtt-icon vttech-icon-call01",
+        "Name": "call01"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-cancel-01",
+        "Name": "cancel 01"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-cancel-app",
+        "Name": "cancel app"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-check",
+        "Name": "check"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-creat-app",
         "Name": "creat app"
     },
     {
-        "ClassName": "iconvttech iconvttech-dieutri1",
-        "Name": "dieutri"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-nonecctreat1",
-        "Name": "nonecctreat"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-print1",
-        "Name": "print"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-signature1",
-        "Name": "signature"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-treatment1",
-        "Name": "treatment"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-treatment-work1",
-        "Name": "treatment work"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-uniE9121",
-        "Name": "uniE921"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-deposit1",
-        "Name": "deposit"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-history1",
-        "Name": "history"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-installment1",
+        "ClassName": "vtt-icon vttech-icon-installment",
         "Name": "installment"
     },
     {
-        "ClassName": "iconvttech iconvttech-introduce1",
-        "Name": "introduce"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-sms1",
-        "Name": "sms"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-cahnge-color1",
-        "Name": "cahnge color"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-call-action1",
-        "Name": "call action"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-clear-sort1",
-        "Name": "clear sort"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-cust-code1",
-        "Name": "cust code"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-down1",
-        "Name": "down"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-edit-action1",
-        "Name": "edit action"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-icon-doctor1",
-        "Name": "icon doctor"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-print-action1",
-        "Name": "print action"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-room-action1",
-        "Name": "room action"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-setup1",
-        "Name": "setup"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-sms_action1",
-        "Name": "sms_action"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-tag-chichu-lich1",
-        "Name": "tag chichu-lich"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-up1",
-        "Name": "up"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-filter-calendar1",
-        "Name": "filter calendar"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-ACCOUNT1",
-        "Name": "ACCOUNT"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-appoment1",
-        "Name": "appoment"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-call011",
-        "Name": "call"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-cancel-apps1",
-        "Name": "cancel apps"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-chamsoc1",
-        "Name": "chamsoc"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-cus1",
-        "Name": "cus"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-facebook1",
-        "Name": "facebook"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-labo1",
-        "Name": "labo"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-marketing1",
-        "Name": "marketing"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-mobile1",
-        "Name": "mobile"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-on-mic011",
-        "Name": "on mic"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-repport1",
-        "Name": "repport"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-serv1",
-        "Name": "serv"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-setting1",
-        "Name": "setting"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-sms011",
-        "Name": "sms"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-task1",
-        "Name": "task"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-task-011",
-        "Name": "task"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-un-mic011",
-        "Name": "un mic"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-user-setting1",
-        "Name": "user setting"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-warehouse1",
-        "Name": "warehouse"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-attach1",
-        "Name": "attach"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-birth-day1",
-        "Name": "birth day"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-call1",
-        "Name": "call"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-cancel1",
+        "ClassName": "vtt-icon vttech-icon-cancel",
         "Name": "cancel"
     },
     {
-        "ClassName": "iconvttech iconvttech-clear1",
-        "Name": "clear"
+        "ClassName": "vtt-icon vttech-icon-delete01",
+        "Name": "delete01"
     },
     {
-        "ClassName": "iconvttech iconvttech-client_send1",
-        "Name": "client send"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-comment1",
-        "Name": "comment"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-dot1",
-        "Name": "dot"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-face_icon1",
-        "Name": "facebook"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-face_w1",
-        "Name": "face"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-facelink1",
-        "Name": "facelink"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-fillter1",
-        "Name": "fillter"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-gotomess1",
-        "Name": "gotomess"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-hide1",
-        "Name": "hide"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-like1",
-        "Name": "like"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-messenger1",
-        "Name": "messenger"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-name1",
-        "Name": "name"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-nodelete_b1",
-        "Name": "trash"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-nohide1",
-        "Name": "nohide"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-no-reply1",
-        "Name": "no reply"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-no-see1",
-        "Name": "no see"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-ok1",
-        "Name": "ok"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-phone-21",
-        "Name": "phone"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-profile1",
-        "Name": "profile"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-sex1",
-        "Name": "sex"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-staff1",
-        "Name": "staff"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-start1",
-        "Name": "start"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-tag1",
-        "Name": "tag"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-teamplate1",
-        "Name": "teamplate"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-cancel-app1",
-        "Name": "cancel app"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-creat-csu-bo1",
-        "Name": "creat csu-bo"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-creat-profile1",
-        "Name": "creat profile"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-dash1",
-        "Name": "dash"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-desk1",
-        "Name": "desk"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-export-ex1",
-        "Name": "export ex"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-icon-bacsi1",
-        "Name": "icon bacsi"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-mute-volume1",
-        "Name": "mute volume"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-notifaction1",
-        "Name": "notifaction"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-phong1",
-        "Name": "phong"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-print11",
-        "Name": "print"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-trongngay1",
-        "Name": "inday"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-vietnam1",
-        "Name": "vietnam"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-volum-noti1",
-        "Name": "volum noti"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-x-ray1",
-        "Name": "x-ray"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-call11",
-        "Name": "call"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-mute-call-center1",
-        "Name": "mute call center"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-on-mic1",
-        "Name": "on mic"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-booking11",
-        "Name": "booking"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-call21",
-        "Name": "call"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-call0111",
-        "Name": "call"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-call-ticket1",
-        "Name": "call ticket"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-cancel11",
-        "Name": "cancel"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-cancel-011",
-        "Name": "cancel "
-    },
-    {
-        "ClassName": "iconvttech iconvttech-cancel-app11",
-        "Name": "cancel app"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-check1",
-        "Name": "check"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-creat-app11",
-        "Name": "creat app"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-delete1",
-        "Name": "delete"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-delete011",
-        "Name": "delete"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-disable1",
-        "Name": "disable"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-edit1",
-        "Name": "edit"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-import-file1",
-        "Name": "import file"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-labo11",
-        "Name": "labo"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-list-ticket-file1",
-        "Name": "list ticket file"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-lock1",
-        "Name": "lock"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-lock-011",
-        "Name": "lock"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-LOCK-USER-bo1",
-        "Name": "LOCK USER"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-print21",
-        "Name": "print"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-refesh1",
-        "Name": "refesh"
-    },
-    {
-        "ClassName": "iconvttech iconvttech-restore1",
+        "ClassName": "vtt-icon vttech-icon-restore",
         "Name": "restore"
     },
     {
-        "ClassName": "iconvttech iconvttech-send-sms1",
+        "ClassName": "vtt-icon vttech-icon-disable",
+        "Name": "disable"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-import-file",
+        "Name": "import file"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-labo",
+        "Name": "labo"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-info-modified",
+        "Name": "info modified"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-list-ticket-file",
+        "Name": "list ticket file"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-sms-history",
+        "Name": "sms history"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-lock-01",
+        "Name": "lock 01"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-print",
+        "Name": "print"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-delete",
+        "Name": "delete"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-refesh",
+        "Name": "refesh"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-send-sms",
         "Name": "send sms"
     },
     {
-        "ClassName": "iconvttech iconvttech-ticket1",
+        "ClassName": "vtt-icon vttech-icon-history",
+        "Name": "history"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-uniE919",
+        "Name": "uniE919"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-uniE91A",
+        "Name": "uniE91A"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-ticket",
         "Name": "ticket"
     },
     {
-        "ClassName": "iconvttech iconvttech-todo1",
-        "Name": "todo"
+        "ClassName": "vtt-icon vttech-icon-uniE91C",
+        "Name": "uniE91C"
     },
     {
-        "ClassName": "iconvttech iconvttech-tranfer-user1",
+        "ClassName": "vtt-icon vttech-icon-uniE91D",
+        "Name": "uniE91D"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-unlock-01",
+        "Name": "unlock 01"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-call1",
+        "Name": "call1"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-uniE920",
+        "Name": "uniE920"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-mute-call-center",
+        "Name": "mute call center"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-tag-note",
+        "Name": "tag note"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-cancel-app1",
+        "Name": "cancel app1"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-creat-profile",
+        "Name": "creat profile"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-desk",
+        "Name": "desk"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-export-ex",
+        "Name": "export ex"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-icon-bacsi",
+        "Name": "icon bacsi"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-cust-code",
+        "Name": "cust code"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-wifi-speed",
+        "Name": "wifi speed"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-mute-volume",
+        "Name": "mute volume"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-dash",
+        "Name": "dash"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-notifaction",
+        "Name": "notifaction"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-phong",
+        "Name": "phong"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-print1",
+        "Name": "print1"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-mic-voice",
+        "Name": "mic voice"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-trongngay",
+        "Name": "trongngay"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-volum-noti",
+        "Name": "volum noti"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-x-ray",
+        "Name": "x ray"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-attach",
+        "Name": "attach"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-nohide",
+        "Name": "nohide"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-birth-day",
+        "Name": "birth day"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-cancel1",
+        "Name": "cancel1"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-clear",
+        "Name": "clear"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-client_send",
+        "Name": "client_send"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-comment",
+        "Name": "comment"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-dot",
+        "Name": "dot"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-face_icon",
+        "Name": "face_icon"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-name",
+        "Name": "name"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-facelink",
+        "Name": "facelink"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-fillter",
+        "Name": "fillter"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-gotomess",
+        "Name": "gotomess"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-hide",
+        "Name": "hide"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-like",
+        "Name": "like"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-messenger",
+        "Name": "messenger"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-nodelete_b",
+        "Name": "nodelete_b"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-call",
+        "Name": "call"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-no-reply",
+        "Name": "no reply"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-no-see",
+        "Name": "no see"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-ok",
+        "Name": "ok"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-phone2",
+        "Name": "phone2"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-profile",
+        "Name": "profile"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-sex",
+        "Name": "sex"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-brocker",
+        "Name": "brocker"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-start",
+        "Name": "start"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-tag",
+        "Name": "tag"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-teamplate",
+        "Name": "teamplate"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-appoment",
+        "Name": "appoment"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-tranfer-user",
         "Name": "tranfer user"
     },
     {
-        "ClassName": "iconvttech iconvttech-unlock1",
-        "Name": "unlock"
+        "ClassName": "vtt-icon vttech-icon-cancel-apps",
+        "Name": "cancel apps"
     },
     {
-        "ClassName": "iconvttech iconvttech-unlock-011",
-        "Name": "unlock"
+        "ClassName": "vtt-icon vttech-icon-cashier",
+        "Name": "cashier"
     },
     {
-        "ClassName": "iconvttech iconvttech-unlock-usser-bo1",
-        "Name": "unlock user"
+        "ClassName": "vtt-icon vttech-icon-chamsoc",
+        "Name": "chamsoc"
     },
     {
-        "ClassName": "iconvttech iconvttech-xem1",
-        "Name": "view"
+        "ClassName": "vtt-icon vttech-icon-cus",
+        "Name": "cus"
     },
     {
-        "ClassName": "iconvttech iconvttech-logo1",
+        "ClassName": "vtt-icon vttech-icon-edit-content",
+        "Name": "edit content"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-facebook",
+        "Name": "facebook"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-labo1",
+        "Name": "labo1"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-marketing",
+        "Name": "marketing"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-mobile",
+        "Name": "mobile"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-noti",
+        "Name": "noti"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-repport",
+        "Name": "repport"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-serv",
+        "Name": "serv"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-setting",
+        "Name": "setting"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-show-more",
+        "Name": "show more"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-sms01",
+        "Name": "sms01"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-task",
+        "Name": "task"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-task-todo",
+        "Name": "task todo"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-todo",
+        "Name": "todo"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-user-setting",
+        "Name": "user setting"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-warehouse",
+        "Name": "warehouse"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-wifi",
+        "Name": "wifi"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-i_app",
+        "Name": "i_app"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-i_cancel",
+        "Name": "i_cancel"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-i_check",
+        "Name": "i_check"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-i_creat",
+        "Name": "i_creat"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-i_cus",
+        "Name": "i_cus"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-i_visitor",
+        "Name": "i_visitor"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-uniE96C",
+        "Name": "uniE96C"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-show",
+        "Name": "show"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-edit",
+        "Name": "edit"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-call-action",
+        "Name": "call action"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-cancel_action",
+        "Name": "cancel_action"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-change-color",
+        "Name": "change color"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-action",
+        "Name": "action"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-pakage",
+        "Name": "pakage"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-down",
+        "Name": "down"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-edit-action",
+        "Name": "edit action"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-icon-doctor",
+        "Name": "icon doctor"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-print-action",
+        "Name": "print action"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-room-action",
+        "Name": "room action"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-setup",
+        "Name": "setup"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-sms_action",
+        "Name": "sms_action"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-face",
+        "Name": "face"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-up",
+        "Name": "up"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-filter-calendar",
+        "Name": "filter calendar"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-comission",
+        "Name": "comission"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-deposit",
+        "Name": "deposit"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-instagram",
+        "Name": "instagram"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-viber",
+        "Name": "viber"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-introduce",
+        "Name": "introduce"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-mess",
+        "Name": "mess"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-booking1",
+        "Name": "booking1"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-cctreat",
+        "Name": "cctreat"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-creat-app1",
+        "Name": "creat app1"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-dieutri",
+        "Name": "dieutri"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-nonecctreat",
+        "Name": "nonecctreat"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-print2",
+        "Name": "print2"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-signature",
+        "Name": "signature"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-treatment",
+        "Name": "treatment"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-treatment-work",
+        "Name": "treatment work"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-Prepaid-cards",
+        "Name": "Prepaid cards"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-prescription",
+        "Name": "prescription"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-service-payment",
+        "Name": "service payment"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-logo",
         "Name": "logo"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-zalo",
+        "Name": "zalo"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-pay",
+        "Name": "pay"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-Arrow-lefts",
+        "Name": "Arrow lefts"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-Arrow-rights",
+        "Name": "Arrow rights"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-Arrow-right",
+        "Name": "Arrow right"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-Arrow-left",
+        "Name": "Arrow left"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-camera",
+        "Name": "camera"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-pdf",
+        "Name": "pdf"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-male",
+        "Name": "male"
+    },
+    {
+        "ClassName": "vtt-icon vttech-icon-female",
+        "Name": "female"
     }
 ]
 

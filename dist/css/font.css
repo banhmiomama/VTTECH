@@ -10,7 +10,7 @@
   font-display: block;
 }
 
-.iconvttech {
+.vtt-icon {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'VTTech' !important;
   speak: never;
@@ -24,412 +24,552 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
-.iconvttech-i_app1:before {
+.vttech-icon-export-warehouse:before {
+  content: "\b99b";
+}
+.vttech-icon-input-warehouse:before {
+  content: "\b99c";
+}
+.vttech-icon-warehouse-transfer:before {
+  content: "\b99d";
+}
+.vttech-icon-flag-vi:before {
+  content: "\c99b";
+}
+.vttech-icon-flag-vn:before {
+  content: "\a91d";
+}
+.vttech-icon-progressing:before {
+  content: "\a901";
+}
+.vttech-icon-undisable:before {
+  content: "\a900";
+}
+.vttech-icon-uncheck:before {
+  content: "\a902";
+}
+.vttech-icon-commitment:before {
+  content: "\a903";
+}
+.vttech-icon-add:before {
+  content: "\a904";
+}
+.vttech-icon-uncomplete:before {
+  content: "\a905";
+}
+.vttech-icon-devide:before {
+  content: "\a906";
+}
+.vttech-icon-detail:before {
+  content: "\a907";
+}
+.vttech-icon-medicine_grid:before {
+  content: "\a908";
+}
+.vttech-icon-merge:before {
+  content: "\a909";
+}
+.vttech-icon-recover:before {
+  content: "\a90a";
+}
+.vttech-icon-support-technical:before {
+  content: "\a90b";
+}
+.vttech-icon-folder_40:before {
+  content: "\a90c";
+}
+.vttech-icon-pen:before {
+  content: "\a90d";
+}
+.vttech-icon-media:before {
+  content: "\a90e";
+}
+.vttech-icon-student:before {
+  content: "\a90f";
+}
+.vttech-icon-flag-en:before {
+  content: "\a910";
+}
+.vttech-icon-endcall:before {
+  content: "\a911";
+}
+.vttech-icon-unmutecall:before {
+  content: "\a912";
+}
+.vttech-icon-reset:before {
+  content: "\a91e";
+}
+.vttech-icon-google-map:before {
+  content: "\b900";
+}
+.vttech-icon-all:before {
+  content: "\b901";
+}
+.vttech-icon-change:before {
+  content: "\c997";
+}
+.vttech-icon-account:before {
   content: "\e900";
 }
-.iconvttech-i_cancel1:before {
+.vttech-icon-done-takecare:before {
   content: "\e901";
 }
-.iconvttech-i_check1:before {
+.vttech-icon-booking:before {
   content: "\e902";
 }
-.iconvttech-i_creat1:before {
+.vttech-icon-star:before {
   content: "\e903";
 }
-.iconvttech-i_cus1:before {
+.vttech-icon-call01:before {
   content: "\e904";
 }
-.iconvttech-i_visitor1:before {
+.vttech-icon-cancel-01:before {
   content: "\e905";
 }
-.iconvttech-Prepaid-cards1:before {
+.vttech-icon-cancel-app:before {
   content: "\e906";
 }
-.iconvttech-prescription1:before {
+.vttech-icon-check:before {
   content: "\e907";
 }
-.iconvttech-service-payment1:before {
+.vttech-icon-creat-app:before {
   content: "\e908";
 }
-.iconvttech-booking1:before {
+.vttech-icon-installment:before {
   content: "\e909";
 }
-.iconvttech-cctreat1:before {
+.vttech-icon-cancel:before {
   content: "\e90a";
 }
-.iconvttech-creat-app1:before {
+.vttech-icon-delete01:before {
   content: "\e90b";
 }
-.iconvttech-dieutri1:before {
+.vttech-icon-restore:before {
   content: "\e90c";
 }
-.iconvttech-nonecctreat1:before {
+.vttech-icon-disable:before {
   content: "\e90d";
 }
-.iconvttech-print1:before {
+.vttech-icon-import-file:before {
   content: "\e90e";
 }
-.iconvttech-signature1:before {
+.vttech-icon-labo:before {
   content: "\e90f";
 }
-.iconvttech-treatment1:before {
+.vttech-icon-info-modified:before {
   content: "\e910";
 }
-.iconvttech-treatment-work1:before {
+.vttech-icon-list-ticket-file:before {
   content: "\e911";
 }
-.iconvttech-uniE9121:before {
+.vttech-icon-sms-history:before {
   content: "\e912";
 }
-.iconvttech-deposit1:before {
+.vttech-icon-lock-01:before {
   content: "\e913";
 }
-.iconvttech-history1:before {
+.vttech-icon-print:before {
   content: "\e914";
 }
-.iconvttech-installment1:before {
+.vttech-icon-delete:before {
   content: "\e915";
 }
-.iconvttech-introduce1:before {
+.vttech-icon-refesh:before {
   content: "\e916";
 }
-.iconvttech-sms1:before {
+.vttech-icon-send-sms:before {
   content: "\e917";
 }
-.iconvttech-cahnge-color1:before {
+.vttech-icon-history:before {
   content: "\e918";
 }
-.iconvttech-call-action1:before {
+.vttech-icon-uniE919:before {
   content: "\e919";
 }
-.iconvttech-clear-sort1:before {
+.vttech-icon-uniE91A:before {
   content: "\e91a";
 }
-.iconvttech-cust-code1:before {
+.vttech-icon-ticket:before {
   content: "\e91b";
 }
-.iconvttech-down1:before {
+.vttech-icon-uniE91C:before {
   content: "\e91c";
 }
-.iconvttech-edit-action1:before {
+.vttech-icon-uniE91D:before {
   content: "\e91d";
 }
-.iconvttech-icon-doctor1:before {
+.vttech-icon-unlock-01:before {
   content: "\e91e";
 }
-.iconvttech-print-action1:before {
+.vttech-icon-call1:before {
   content: "\e91f";
 }
-.iconvttech-room-action1:before {
+.vttech-icon-uniE920:before {
   content: "\e920";
 }
-.iconvttech-setup1:before {
+.vttech-icon-mute-call-center:before {
   content: "\e921";
 }
-.iconvttech-sms_action1:before {
+.vttech-icon-tag-note:before {
   content: "\e922";
 }
-.iconvttech-tag-chichu-lich1:before {
+.vttech-icon-cancel-app1:before {
   content: "\e923";
 }
-.iconvttech-up1:before {
+.vttech-icon-creat-profile:before {
   content: "\e924";
 }
-.iconvttech-filter-calendar1:before {
+.vttech-icon-desk:before {
   content: "\e925";
 }
-.iconvttech-ACCOUNT1:before {
+.vttech-icon-export-ex:before {
   content: "\e926";
 }
-.iconvttech-appoment1:before {
+.vttech-icon-icon-bacsi:before {
   content: "\e927";
 }
-.iconvttech-call011:before {
+.vttech-icon-cust-code:before {
   content: "\e928";
 }
-.iconvttech-cancel-apps1:before {
+.vttech-icon-wifi-speed:before {
   content: "\e929";
 }
-.iconvttech-chamsoc1:before {
+.vttech-icon-mute-volume:before {
   content: "\e92a";
 }
-.iconvttech-cus1:before {
+.vttech-icon-dash:before {
   content: "\e92b";
 }
-.iconvttech-facebook1:before {
+.vttech-icon-notifaction:before {
   content: "\e92c";
 }
-.iconvttech-labo1:before {
+.vttech-icon-phong:before {
   content: "\e92d";
 }
-.iconvttech-marketing1:before {
+.vttech-icon-print1:before {
   content: "\e92e";
 }
-.iconvttech-mobile1:before {
+.vttech-icon-mic-voice:before {
   content: "\e92f";
 }
-.iconvttech-on-mic011:before {
+.vttech-icon-trongngay:before {
   content: "\e930";
 }
-.iconvttech-repport1:before {
+.vttech-icon-volum-noti:before {
   content: "\e931";
 }
-.iconvttech-serv1:before {
+.vttech-icon-x-ray:before {
   content: "\e932";
 }
-.iconvttech-setting1:before {
+.vttech-icon-attach:before {
   content: "\e933";
 }
-.iconvttech-sms011:before {
+.vttech-icon-nohide:before {
   content: "\e934";
 }
-.iconvttech-task1:before {
+.vttech-icon-birth-day:before {
   content: "\e935";
 }
-.iconvttech-task-011:before {
+.vttech-icon-cancel1:before {
   content: "\e936";
 }
-.iconvttech-un-mic011:before {
+.vttech-icon-clear:before {
   content: "\e937";
 }
-.iconvttech-user-setting1:before {
+.vttech-icon-client_send:before {
   content: "\e938";
 }
-.iconvttech-warehouse1:before {
+.vttech-icon-comment:before {
   content: "\e939";
 }
-.iconvttech-attach1:before {
+.vttech-icon-dot:before {
   content: "\e93a";
 }
-.iconvttech-birth-day1:before {
+.vttech-icon-face_icon:before {
   content: "\e93b";
 }
-.iconvttech-call1:before {
+.vttech-icon-name:before {
   content: "\e93c";
 }
-.iconvttech-cancel1:before {
+.vttech-icon-facelink:before {
   content: "\e93d";
 }
-.iconvttech-clear1:before {
+.vttech-icon-fillter:before {
   content: "\e93e";
 }
-.iconvttech-client_send1:before {
+.vttech-icon-gotomess:before {
   content: "\e93f";
 }
-.iconvttech-comment1:before {
+.vttech-icon-hide:before {
   content: "\e940";
 }
-.iconvttech-dot1:before {
+.vttech-icon-like:before {
   content: "\e941";
 }
-.iconvttech-face_icon1:before {
+.vttech-icon-messenger:before {
   content: "\e942";
 }
-.iconvttech-face_w1:before {
+.vttech-icon-nodelete_b:before {
   content: "\e943";
 }
-.iconvttech-facelink1:before {
+.vttech-icon-call:before {
   content: "\e944";
 }
-.iconvttech-fillter1:before {
+.vttech-icon-no-reply:before {
   content: "\e945";
 }
-.iconvttech-gotomess1:before {
+.vttech-icon-no-see:before {
   content: "\e946";
 }
-.iconvttech-hide1:before {
+.vttech-icon-ok:before {
   content: "\e947";
 }
-.iconvttech-like1:before {
+.vttech-icon-phone2:before {
   content: "\e948";
 }
-.iconvttech-messenger1:before {
+.vttech-icon-profile:before {
   content: "\e949";
 }
-.iconvttech-name1:before {
+.vttech-icon-sex:before {
   content: "\e94a";
 }
-.iconvttech-nodelete_b1:before {
+.vttech-icon-brocker:before {
   content: "\e94b";
 }
-.iconvttech-nohide1:before {
+.vttech-icon-start:before {
   content: "\e94c";
 }
-.iconvttech-no-reply1:before {
+.vttech-icon-tag:before {
   content: "\e94d";
 }
-.iconvttech-no-see1:before {
+.vttech-icon-teamplate:before {
   content: "\e94e";
 }
-.iconvttech-ok1:before {
+.vttech-icon-appoment:before {
   content: "\e94f";
 }
-.iconvttech-phone-21:before {
+.vttech-icon-tranfer-user:before {
   content: "\e950";
 }
-.iconvttech-profile1:before {
+.vttech-icon-cancel-apps:before {
   content: "\e951";
 }
-.iconvttech-sex1:before {
+.vttech-icon-cashier:before {
   content: "\e952";
 }
-.iconvttech-staff1:before {
+.vttech-icon-chamsoc:before {
   content: "\e953";
 }
-.iconvttech-start1:before {
+.vttech-icon-cus:before {
   content: "\e954";
 }
-.iconvttech-tag1:before {
+.vttech-icon-edit-content:before {
   content: "\e955";
 }
-.iconvttech-teamplate1:before {
+.vttech-icon-facebook:before {
   content: "\e956";
 }
-.iconvttech-cancel-app1:before {
+.vttech-icon-labo1:before {
   content: "\e957";
 }
-.iconvttech-creat-csu-bo1:before {
+.vttech-icon-marketing:before {
   content: "\e958";
 }
-.iconvttech-creat-profile1:before {
+.vttech-icon-mobile:before {
   content: "\e959";
 }
-.iconvttech-dash1:before {
+.vttech-icon-noti:before {
   content: "\e95a";
 }
-.iconvttech-desk1:before {
+.vttech-icon-repport:before {
   content: "\e95b";
 }
-.iconvttech-export-ex1:before {
+.vttech-icon-serv:before {
   content: "\e95c";
 }
-.iconvttech-icon-bacsi1:before {
+.vttech-icon-setting:before {
   content: "\e95d";
 }
-.iconvttech-mute-volume1:before {
+.vttech-icon-show-more:before {
   content: "\e95e";
 }
-.iconvttech-notifaction1:before {
+.vttech-icon-sms01:before {
   content: "\e95f";
 }
-.iconvttech-phong1:before {
+.vttech-icon-task:before {
   content: "\e960";
 }
-.iconvttech-print11:before {
+.vttech-icon-task-todo:before {
   content: "\e961";
 }
-.iconvttech-trongngay1:before {
+.vttech-icon-todo:before {
   content: "\e962";
 }
-.iconvttech-vietnam1:before {
+.vttech-icon-user-setting:before {
   content: "\e963";
 }
-.iconvttech-volum-noti1:before {
+.vttech-icon-warehouse:before {
   content: "\e964";
 }
-.iconvttech-x-ray1:before {
+.vttech-icon-wifi:before {
   content: "\e965";
 }
-.iconvttech-call11:before {
+.vttech-icon-i_app:before {
   content: "\e966";
 }
-.iconvttech-mute-call-center1:before {
+.vttech-icon-i_cancel:before {
   content: "\e967";
 }
-.iconvttech-on-mic1:before {
+.vttech-icon-i_check:before {
   content: "\e968";
 }
-.iconvttech-booking11:before {
+.vttech-icon-i_creat:before {
   content: "\e969";
 }
-.iconvttech-call21:before {
+.vttech-icon-i_cus:before {
   content: "\e96a";
 }
-.iconvttech-call0111:before {
+.vttech-icon-i_visitor:before {
   content: "\e96b";
 }
-.iconvttech-call-ticket1:before {
+.vttech-icon-uniE96C:before {
   content: "\e96c";
 }
-.iconvttech-cancel11:before {
+.vttech-icon-show:before {
   content: "\e96d";
 }
-.iconvttech-cancel-011:before {
+.vttech-icon-edit:before {
   content: "\e96e";
 }
-.iconvttech-cancel-app11:before {
+.vttech-icon-call-action:before {
   content: "\e96f";
 }
-.iconvttech-check1:before {
+.vttech-icon-cancel_action:before {
   content: "\e970";
 }
-.iconvttech-creat-app11:before {
+.vttech-icon-change-color:before {
   content: "\e971";
 }
-.iconvttech-delete1:before {
+.vttech-icon-action:before {
   content: "\e972";
 }
-.iconvttech-delete011:before {
+.vttech-icon-pakage:before {
   content: "\e973";
 }
-.iconvttech-disable1:before {
+.vttech-icon-down:before {
   content: "\e974";
 }
-.iconvttech-edit1:before {
+.vttech-icon-edit-action:before {
   content: "\e975";
 }
-.iconvttech-import-file1:before {
+.vttech-icon-icon-doctor:before {
   content: "\e976";
 }
-.iconvttech-labo11:before {
+.vttech-icon-print-action:before {
   content: "\e977";
 }
-.iconvttech-list-ticket-file1:before {
+.vttech-icon-room-action:before {
   content: "\e978";
 }
-.iconvttech-lock1:before {
+.vttech-icon-setup:before {
   content: "\e979";
 }
-.iconvttech-lock-011:before {
+.vttech-icon-sms_action:before {
   content: "\e97a";
 }
-.iconvttech-LOCK-USER-bo1:before {
+.vttech-icon-face:before {
   content: "\e97b";
 }
-.iconvttech-print21:before {
+.vttech-icon-up:before {
   content: "\e97c";
 }
-.iconvttech-refesh1:before {
+.vttech-icon-filter-calendar:before {
   content: "\e97d";
 }
-.iconvttech-restore1:before {
+.vttech-icon-comission:before {
   content: "\e97e";
 }
-.iconvttech-send-sms1:before {
+.vttech-icon-deposit:before {
   content: "\e97f";
 }
-.iconvttech-ticket1:before {
+.vttech-icon-instagram:before {
   content: "\e980";
 }
-.iconvttech-todo1:before {
+.vttech-icon-viber:before {
   content: "\e981";
 }
-.iconvttech-tranfer-user1:before {
+.vttech-icon-introduce:before {
   content: "\e982";
 }
-.iconvttech-unlock1:before {
+.vttech-icon-mess:before {
   content: "\e983";
 }
-.iconvttech-unlock-011:before {
+.vttech-icon-booking1:before {
   content: "\e984";
 }
-.iconvttech-unlock-usser-bo1:before {
+.vttech-icon-cctreat:before {
   content: "\e985";
 }
-.iconvttech-xem1:before {
+.vttech-icon-creat-app1:before {
   content: "\e986";
 }
-.iconvttech-logo1:before {
+.vttech-icon-dieutri:before {
   content: "\e987";
+}
+.vttech-icon-nonecctreat:before {
+  content: "\e988";
+}
+.vttech-icon-print2:before {
+  content: "\e989";
+}
+.vttech-icon-signature:before {
+  content: "\e98a";
+}
+.vttech-icon-treatment:before {
+  content: "\e98b";
+}
+.vttech-icon-treatment-work:before {
+  content: "\e98c";
+}
+.vttech-icon-Prepaid-cards:before {
+  content: "\e98d";
+}
+.vttech-icon-prescription:before {
+  content: "\e98e";
+}
+.vttech-icon-service-payment:before {
+  content: "\e98f";
+}
+.vttech-icon-logo:before {
+  content: "\e990";
+}
+.vttech-icon-zalo:before {
+  content: "\e991";
+}
+.vttech-icon-pay:before {
+  content: "\e992";
+}
+.vttech-icon-Arrow-lefts:before {
+  content: "\e993";
+}
+.vttech-icon-Arrow-rights:before {
+  content: "\e994";
+}
+.vttech-icon-Arrow-right:before {
+  content: "\e995";
+}
+.vttech-icon-Arrow-left:before {
+  content: "\e996";
+}
+.vttech-icon-camera:before {
+  content: "\e997";
+}
+.vttech-icon-pdf:before {
+  content: "\e998";
+}
+.vttech-icon-male:before {
+  content: "\e999";
+}
+.vttech-icon-female:before {
+  content: "\e99a";
 }
